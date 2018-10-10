@@ -1,5 +1,7 @@
 # MarsImagesAnalysis
 
+Python Dependencies : numpy, keras, tensorflow, pil, matplotlib
+
 - Objective 1 :  Find subjective quality for images in the *qualitydata* folder
 
 
